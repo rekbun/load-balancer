@@ -1,0 +1,9 @@
+{
+    "name":   "load_balancer",
+    "version" :"0.0.1",
+    "description": "load balancer for gtalk servers",
+    "dependencies":{
+                    "tav": ">=0.1.0",
+                    "log4js": ">=0.4.1"
+                    },
+
