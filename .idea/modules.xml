@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gtalkServer.iml" filepath="$PROJECT_DIR$/.idea/gtalkServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/load_balancer.iml" filepath="$PROJECT_DIR$/.idea/load_balancer.iml" />
     </modules>
   </component>
 </project>
