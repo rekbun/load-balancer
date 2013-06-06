@@ -6,4 +6,13 @@
                     "tav": ">=0.1.0",
                     "log4js": ">=0.4.1"
                     },
+    "homepage":"https://github.com/rekbun/load-balancer",
+    "maintainers":[{
+                       "name":"rakesh kumar",
+                       "email":"rkcoudhary0208@gmail.com"
+                    }],
+
+    "engine":"node"
+}
+
 
